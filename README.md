@@ -1,8 +1,8 @@
 ### Hi, I'm Pranav 👋
 
-Data Science graduate (First Class Honours, Northumbria University, 2026), heading into an MSc in Advanced Data Science with Health at Newcastle. I build ML systems end to end - from raw NumPy autograd engines to production-shaped retrieval pipelines - with a focus on healthcare applications and rigorous model evaluation.
+Data Science graduate (First Class Honours, Northumbria University, 2026), Now doing Masters at University of Leeds (Health Informatics and Data Science). I build ML systems end to end - from raw NumPy autograd engines to production-shaped retrieval pipelines - with a focus on healthcare applications and rigorous model evaluation.
 
-📍 Newcastle upon Tyne, UK &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/pranav-naveen-kumar)
+📍 Leeds, UK &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/pranav-naveen-kumar)
 
 ### Featured projects
 
